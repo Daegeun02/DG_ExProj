@@ -1,0 +1,8 @@
+/usr/local/include/dg_exproj/exproj_utils.h
+/usr/local/include/dg_exproj/exproj_typedef.h
+/usr/local/include/dg_exproj/DG_ExProj.hpp
+/usr/local/lib/libdg_exproj.so
+/usr/local/lib/cmake/DG_ExProj/DG_ExProjTargets.cmake
+/usr/local/lib/cmake/DG_ExProj/DG_ExProjTargets-release.cmake
+/usr/local/lib/cmake/DG_ExProj/DG_ExProjConfig.cmake
+/usr/local/lib/cmake/DG_ExProj/DG_ExProjConfigVersion.cmake

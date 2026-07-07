@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libdg_exproj.so -o libdg_exproj.so CMakeFiles/DG_ExProj.dir/src/exproj_utils.cpp.o CMakeFiles/DG_ExProj.dir/src/exproj_setup.cpp.o CMakeFiles/DG_ExProj.dir/src/exproj_solve.cpp.o 
