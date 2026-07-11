@@ -302,6 +302,8 @@ void SolverDG::update_param( admm_params& _aparam, lander_data& _lander, planet_
         D_ict.reshape( n_aug, n_aug );
         LUdecomp.reshaped();
     }
+
+    scaled = false;
 }
 
 
